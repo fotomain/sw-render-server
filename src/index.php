@@ -5,6 +5,8 @@
 
 <?php
 
+echo 'You are logged in! 111<br>';
+
 echo phpinfo();
 
 ?>
